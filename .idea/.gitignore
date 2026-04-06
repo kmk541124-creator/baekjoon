@@ -1,0 +1,10 @@
+# 디폴트 무시된 파일
+/../../백준 독학/.idea/shelf/
+/../../백준 독학/.idea/workspace.xml
+# 쿼리 파일을 포함한 무시된 디폴트 폴더
+/../../백준 독학/.idea/queries/
+# Datasource local storage ignored files
+/../../백준 독학/.idea/dataSources/
+/../../백준 독학/.idea/dataSources.local.xml
+# 에디터 기반 HTTP 클라이언트 요청
+/../../백준 독학/.idea/httpRequests/
