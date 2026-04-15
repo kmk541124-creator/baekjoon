@@ -4,13 +4,12 @@ import java.util.*;
 class passwordfind { // 백준 제출 시 클래스 이름은 Main이어야 합니다.
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
      
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
-
+        
         HashMap<String, String> map4 = new HashMap<>();
 
         // 3. N개의 사이트 정보 저장
